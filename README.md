@@ -1,10 +1,7 @@
 # uncommonschools
 Web Page for Uncommon Schools
 ABOUT THIS PROJECT
-The Web Page Development Project is a two-week virtual, web development
-project for graduates of Generation's Junior Web Development program. This
-project allows teams of web development learners to create web page for a
-business based on a provided report.
+
 PROJECT TIMELINE
 This project will run from March 1st, 2021 to March 12th, 2021.
 Web development learners will commit to 15 hours of effort each per week.
@@ -12,8 +9,6 @@ Clients will contribute 1 hour per week for feedback and communication with
 their team.
 THE CLIENT
 Your web page will be developed for the client below:
-Name: Monique Lomax
-Title: Director of Operations
 Organization: Uncommon Schools
 Company website: https://uncommonschools.org/
 Organization’s mission statement/vision statement: <MissionAndVision>
