@@ -1,5 +1,6 @@
 # uncommonschools
-Web Page for Uncommon Schools
+##Web Page for Uncommon Schools
+
 ABOUT THIS PROJECT
 
 PROJECT TIMELINE
