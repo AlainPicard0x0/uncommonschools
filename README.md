@@ -1,9 +1,8 @@
+# ABOUT THIS PROJECT
 
-# Web Page for Uncommon Schools
+### Web Page for Uncommon Schools
 
-### ABOUT THIS PROJECT
-
-### PROJECT TIMELINE
+## PROJECT TIMELINE
 This project will run from March 1st, 2021 to March 12th, 2021.
 Web development team will commit 15 hours of effort each per week.
 Clients will contribute 1 hour per week for feedback and communication with
