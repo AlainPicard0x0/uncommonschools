@@ -1,4 +1,4 @@
-# ABOUT THIS PROJECT
+## ABOUT THIS PROJECT
 
 ### Web Page for Uncommon Schools
 
