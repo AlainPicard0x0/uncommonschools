@@ -23,6 +23,7 @@ PROJECT DETAILS
 The final web page will include the following elements:
 
 ● Fully Responsive
+
 ● Sections
 
 ● Images/
