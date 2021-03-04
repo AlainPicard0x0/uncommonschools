@@ -1,3 +1,4 @@
+![Layout 2](https://user-images.githubusercontent.com/46497761/109905912-6778d000-7c54-11eb-9227-551efd4ffc32.jpg)
 # uncommonschools
 Web Page for Uncommon Schools
 ABOUT THIS PROJECT
