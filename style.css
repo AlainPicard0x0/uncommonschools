@@ -28,7 +28,9 @@ body {
     justify-content: center;
 }
 
+
 /* Section 2 Styles */
+
 .section-one {
     color: grey;
 }
@@ -39,15 +41,18 @@ body {
     margin: 2rem 0 4rem 0;
 }
 
-.section-one h2, .section-six h2 {
+.section-one h2,
+.section-six h2 {
     margin: 0 0 0.5rem 0;
 }
 
-.section-one p, .section-six p {
+.section-one p,
+.section-six p {
     margin: 0 0 1.5rem 0;
 }
 
-.section-one input, .section-six input {
+.section-one input,
+.section-six input {
     height: 1.6rem;
     width: 12rem;
     margin: 0 0.5rem;
@@ -56,7 +61,8 @@ body {
     border: solid 1px grey;
 }
 
-.section-one button, .section-six button {
+.section-one button,
+.section-six button {
     height: 1.8rem;
     width: 8.5rem;
     margin: 0 0.5rem;
@@ -191,31 +197,76 @@ body {
     padding: 0.75rem;
 }
 
+
 /* Section 4 Styles */
-#section-four{
+
+#section-four {
     display: flex;
     min-height: 50vh;
     background-color: #333743;
     color: #fff;
 }
-.section-four{
+
+.section-four {
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin: 5rem auto;
     align-items: center;
-} 
-.section-four video{
-    margin: 0 5rem;
 }
-.section-four-list{
+
+.section-four video {
     margin: 0 5rem;
 }
 
+.section-four-list {
+    margin: 0 5rem;
+}
+
+
 /* Section 6 Styles */
-#section-six{
+
+#section-six {
     display: flex;
     background-color: #333743;
     color: #fff;
     min-height: 50vh;
+}
+
+
+/*Section 5 Styles */
+
+#what-they-say {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffdc00;
+    text-align: center;
+    padding: 6.25rem 0;
+}
+
+#what-they-say h2 {
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+#what-they-say q {
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+#what-they-say p {
+    font-weight: bold;
+}
+
+#what-they-say .fa {
+    color: gray;
+    background-color: transparent;
+    border: none;
+}
+
+#what-they-say #unique-color {
+    color: #333743;
 }
