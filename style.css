@@ -200,6 +200,7 @@ body {
     padding: 0.75rem;
 }
 
+
 /* section 3 styling */
 
 .container-three {
@@ -207,19 +208,18 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #ffdc00;
-    padding: 5rem;
+    padding: 3rem;
 }
 
 .container-three h3,
-.container-three p
-{
+.container-three p {
     color: #333743;
     text-align: left;
     width: 50%;
     margin: auto;
 }
 
-.container-three img{
+.container-three img {
     width: 18rem;
     height: 18rem;
 }
@@ -346,4 +346,3 @@ body {
     font-size: 0.8rem;
     margin: 0 4rem;
 }
-
