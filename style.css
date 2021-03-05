@@ -27,3 +27,32 @@ body{
 .section-one h2{
     margin: 0 0 0.5rem 0;
 }
+
+/* section 3 styling */
+
+.container-three {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffdc00;
+    padding: 5rem;
+}
+
+.container-three h3,
+.container-three p
+{
+    color: #333743;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+
+.container-three img{
+    width: 18rem;
+    height: 18rem;
+}
+
+.section-three-box p {
+    font-size: .7rem;
+}
+
