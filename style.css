@@ -205,18 +205,16 @@ body {
 
 .container-three {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background-color: #ffdc00;
     padding: 3rem;
 }
 
-.container-three h3,
+.container-three h2,
 .container-three p {
     color: #333743;
     text-align: left;
-    width: 50%;
-    margin: auto;
 }
 
 .container-three img {
@@ -225,7 +223,8 @@ body {
 }
 
 .section-three-box p {
-    font-size: .7rem;
+    max-width: 400px;
+    margin-right: 6rem;
 }
 
 
