@@ -13,6 +13,9 @@ body {
 }
 
 
+/* Section 1 Styles */
+
+
 /*Initialize container class to center elements*/
 
 .container {
@@ -27,9 +30,6 @@ body {
     flex-direction: row;
     justify-content: center;
 }
-
-
-/* Section 2 Styles */
 
 .section-one {
     color: grey;
@@ -225,17 +225,10 @@ body {
 }
 
 
-/* Section 6 Styles */
-
-#section-six {
-    display: flex;
-    background-color: #333743;
-    color: #fff;
-    min-height: 50vh;
-}
-
-
 /*Section 5 Styles */
+
+
+/* turns section 5 into a flex box and centers all content in the section*/
 
 #what-they-say {
     display: flex;
@@ -247,20 +240,32 @@ body {
     padding: 6.25rem 0;
 }
 
+
+/* gives section 5 header a size of 36px and transforms it to all uppercase */
+
 #what-they-say h2 {
     font-size: 2.25rem;
     margin-bottom: 1rem;
     text-transform: uppercase;
 }
 
+
+/* italicizes the quote */
+
 #what-they-say q {
     font-style: italic;
     margin-bottom: 1rem;
 }
 
+
+/* bolds all of the paragraphs in section 5 */
+
 #what-they-say p {
     font-weight: bold;
 }
+
+
+/* colors the icons gray */
 
 #what-they-say .fa {
     color: gray;
@@ -268,8 +273,21 @@ body {
     border: none;
 }
 
+
+/* modifies first icon to look different from the reset */
+
 #what-they-say #unique-color {
     color: #333743;
+}
+
+
+/* Section 6 Styles */
+
+#section-six {
+    display: flex;
+    background-color: #333743;
+    color: #fff;
+    min-height: 50vh;
 }
 
 
