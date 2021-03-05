@@ -189,3 +189,41 @@ body {
 .fa-comments {
     padding: 0.75rem;
 }
+
+
+/*Section 5 Styles */
+
+#what-they-say {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffdc00;
+    text-align: center;
+    padding: 6.25rem 0;
+}
+
+#what-they-say h2 {
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+#what-they-say q {
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+#what-they-say p {
+    font-weight: bold;
+}
+
+#what-they-say .fa {
+    color: gray;
+    background-color: transparent;
+    border: none;
+}
+
+#what-they-say #unique-color {
+    color: #333743;
+}
