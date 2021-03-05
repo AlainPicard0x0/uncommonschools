@@ -28,6 +28,7 @@ body {
     justify-content: center;
 }
 
+/* Section 2 Styles */
 .section-one {
     color: grey;
 }
@@ -38,15 +39,15 @@ body {
     margin: 2rem 0 4rem 0;
 }
 
-.section-one h2 {
+.section-one h2, .section-six h2 {
     margin: 0 0 0.5rem 0;
 }
 
-.section-one p {
+.section-one p, .section-six p {
     margin: 0 0 1.5rem 0;
 }
 
-.section-one input {
+.section-one input, .section-six input {
     height: 1.6rem;
     width: 12rem;
     margin: 0 0.5rem;
@@ -55,7 +56,7 @@ body {
     border: solid 1px grey;
 }
 
-.section-one button {
+.section-one button, .section-six button {
     height: 1.8rem;
     width: 8.5rem;
     margin: 0 0.5rem;
@@ -188,4 +189,12 @@ body {
 
 .fa-comments {
     padding: 0.75rem;
+}
+
+/* Section 6 Styles */
+#section-six{
+    display: flex;
+    background-color: #333743;
+    color: #fff;
+    min-height: 50vh;
 }
