@@ -191,6 +191,27 @@ body {
     padding: 0.75rem;
 }
 
+/* Section 4 Styles */
+#section-four{
+    display: flex;
+    min-height: 50vh;
+    background-color: #333743;
+    color: #fff;
+}
+.section-four{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 5rem auto;
+    align-items: center;
+} 
+.section-four video{
+    margin: 0 5rem;
+}
+.section-four-list{
+    margin: 0 5rem;
+}
+
 /* Section 6 Styles */
 #section-six{
     display: flex;
