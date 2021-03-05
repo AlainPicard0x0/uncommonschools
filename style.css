@@ -101,6 +101,7 @@ body {
     margin-top: 0;
     margin-bottom: 2rem;
     font-size: 2.25rem;
+    text-transform: uppercase;
 }
 
 
@@ -233,6 +234,7 @@ body {
     min-height: 50vh;
 }
 
+
 /*Section 5 Styles */
 
 #what-they-say {
@@ -270,20 +272,24 @@ body {
     color: #333743;
 }
 
+
 /* Section 7 Styles */
-.section-seven{
+
+.section-seven {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     min-height: 4rem;
 }
-.section-seven img{
+
+.section-seven img {
     width: 6.5rem;
     height: 1.7rem;
     margin: 0 4rem;
 }
-.section-seven p{
+
+.section-seven p {
     font-size: 0.8rem;
     margin: 0 4rem;
 }
