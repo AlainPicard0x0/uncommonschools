@@ -33,6 +33,7 @@ body {
 
 .section-one {
     color: grey;
+    margin: 3rem;
 }
 
 .section-one img {
@@ -44,6 +45,7 @@ body {
 .section-one h2,
 .section-six h2 {
     margin: 0 0 0.5rem 0;
+    font-size: 2rem;
 }
 
 .section-one p,
@@ -90,7 +92,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #333743;
-    padding: 6.25rem 0;
+    padding: 3rem 0;
     color: white;
 }
 
@@ -100,7 +102,7 @@ body {
 #our-platform h2 {
     margin-top: 0;
     margin-bottom: 2rem;
-    font-size: 2.25rem;
+    font-size: 2rem;
     text-transform: uppercase;
 }
 
@@ -212,7 +214,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin: 5rem auto;
+    margin: 3rem auto;
     align-items: center;
 }
 
@@ -222,6 +224,10 @@ body {
 
 .section-four-list {
     margin: 0 5rem;
+}
+
+.section-four-list h2 {
+    font-size: 2rem;
 }
 
 
@@ -237,14 +243,14 @@ body {
     align-items: center;
     background-color: #ffdc00;
     text-align: center;
-    padding: 6.25rem 0;
+    padding: 3rem 0;
 }
 
 
 /* gives section 5 header a size of 36px and transforms it to all uppercase */
 
 #what-they-say h2 {
-    font-size: 2.25rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
     text-transform: uppercase;
 }
@@ -288,6 +294,7 @@ body {
     background-color: #333743;
     color: #fff;
     min-height: 50vh;
+    padding: 3rem 0;
 }
 
 
