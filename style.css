@@ -1,0 +1,17 @@
+/*Reset Page so that everything has no margin or padding by default*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*Initialize container class to center elements*/
+.container{
+    width: 95vw;
+    margin: auto;
+    text-align: center;
+}
+.section-one img{
+    width: 14rem;
+    height: 4rem;
+    margin: 2rem 0 4rem 0;
+}
