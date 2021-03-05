@@ -4,14 +4,26 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
 /*Initialize container class to center elements*/
 .container{
     width: 95vw;
     margin: auto;
     text-align: center;
+    overflow: hidden;
+}
+.section-one{
+    color: grey;
 }
 .section-one img{
     width: 14rem;
     height: 4rem;
     margin: 2rem 0 4rem 0;
+}
+.section-one h2{
+    margin: 0 0 0.5rem 0;
 }
