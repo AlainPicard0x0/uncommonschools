@@ -219,3 +219,20 @@ body {
     color: #fff;
     min-height: 50vh;
 }
+/* Section 7 Styles */
+.section-seven{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 4rem;
+}
+.section-seven img{
+    width: 6.5rem;
+    height: 1.7rem;
+    margin: 0 4rem;
+}
+.section-seven p{
+    font-size: 0.8rem;
+    margin: 0 4rem;
+}
