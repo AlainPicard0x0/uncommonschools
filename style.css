@@ -19,7 +19,7 @@ body {
 /*Initialize container class to center elements*/
 
 .container {
-    width: 95vw;
+    /* width: 95vw; */
     margin: auto;
     text-align: center;
     overflow: hidden;
@@ -78,6 +78,17 @@ body {
     width: 6rem;
     height: 1.5rem;
     margin: 4rem .7rem .5rem .7rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .container form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .container form input {
+        margin-bottom: 0.5rem;
+    }
 }
 
 
@@ -200,6 +211,14 @@ body {
     padding: 0.75rem;
 }
 
+@media only screen and (max-width: 600px) {
+    #our-platform__grid {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
 
 /* section 3 styling */
 
@@ -231,6 +250,20 @@ body {
     margin-right: 6rem;
 }
 
+@media only screen and (max-width: 600px) {
+    .container-three {
+        flex-direction: column;
+    }
+    .section-three-box p {
+        margin-right: 0;
+        margin-bottom: 2rem;
+    }
+    .section-three-box p,
+    .container-three h2 {
+        text-align: center;
+    }
+}
+
 
 /* Section 4 Styles */
 
@@ -259,6 +292,22 @@ body {
 
 .section-four-list h2 {
     font-size: 2rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .section-four {
+        flex-direction: column;
+    }
+    .section-four-list,
+    .section-four video {
+        margin: 0;
+    }
+    .section-four-list {
+        margin-top: 2rem;
+    }
+    .section-four-list h2 {
+        text-align: center;
+    }
 }
 
 
