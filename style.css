@@ -298,6 +298,10 @@ body {
     .section-four {
         flex-direction: column;
     }
+    .section-four-list,
+    .section-four video {
+        margin: 0;
+    }
     .section-four-list {
         margin-top: 2rem;
     }
