@@ -250,6 +250,20 @@ body {
     margin-right: 6rem;
 }
 
+@media only screen and (max-width: 600px) {
+    .container-three {
+        flex-direction: column;
+    }
+    .section-three-box p {
+        margin-right: 0;
+        margin-bottom: 2rem;
+    }
+    .section-three-box p,
+    .container-three h2 {
+        text-align: center;
+    }
+}
+
 
 /* Section 4 Styles */
 
