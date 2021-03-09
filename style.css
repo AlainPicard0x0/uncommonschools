@@ -19,7 +19,7 @@ body {
 /*Initialize container class to center elements*/
 
 .container {
-    width: 95vw;
+    /* width: 95vw; */
     margin: auto;
     text-align: center;
     overflow: hidden;
