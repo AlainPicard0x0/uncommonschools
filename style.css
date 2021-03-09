@@ -80,6 +80,22 @@ body {
     margin: 4rem 1.7rem .5rem 1.7rem;
 }
 
+.nav-bar h4 {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ffdc00;
+    text-shadow: 1px 1px 1px #555;
+}
+
+.nav-bar a{
+    text-decoration: none;
+}
+
+.nav-bar h4:hover {
+    opacity: 50%;
+    
+}
+
 
 /* Section 2 Styles */
 
