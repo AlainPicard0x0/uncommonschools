@@ -91,6 +91,13 @@ body {
     }
 }
 
+@media only screen and (max-width: 550px) {
+    .flex-one {
+        display: grid;
+        grid-template: 1fr 1fr / 1fr 1fr;
+    }
+}
+
 
 /* Section 2 Styles */
 
