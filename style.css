@@ -1,8 +1,5 @@
 /*Reset Page so that everything has no margin or padding by default*/
 
-
-/*I'm checking something out*/
-
 * {
     box-sizing: border-box;
     margin: 0;
