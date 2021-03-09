@@ -294,6 +294,18 @@ body {
     font-size: 2rem;
 }
 
+@media only screen and (max-width: 600px) {
+    .section-four {
+        flex-direction: column;
+    }
+    .section-four-list {
+        margin-top: 2rem;
+    }
+    .section-four-list h2 {
+        text-align: center;
+    }
+}
+
 
 /*Section 5 Styles */
 
