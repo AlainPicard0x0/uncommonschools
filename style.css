@@ -95,7 +95,7 @@ body {
     opacity: 50%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 680px) {
     .container form {
         display: flex;
         flex-direction: column;
