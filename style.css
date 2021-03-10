@@ -278,7 +278,7 @@ body {
     margin-right: 6rem;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     .container-three {
         flex-direction: column;
     }
