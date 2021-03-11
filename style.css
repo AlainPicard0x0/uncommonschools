@@ -369,6 +369,7 @@ body {
 #what-they-say q {
     font-style: italic;
     margin-bottom: 1rem;
+    max-width: 400px;
 }
 
 
@@ -426,12 +427,6 @@ body {
     font-size: 0.8rem;
     margin: 0 4rem;
 }
-
-
-
-
-
-
 
 @media only screen and (max-width: 1200px) {
     #our-platform {
