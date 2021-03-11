@@ -125,7 +125,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #333743;
-    padding: 3rem 0;
+    padding: 3rem;
     color: white;
 }
 
@@ -351,7 +351,7 @@ body {
     align-items: center;
     background-color: #ffdc00;
     text-align: center;
-    padding: 3rem 0;
+    padding: 3rem;
 }
 
 
@@ -430,6 +430,6 @@ body {
 
 @media only screen and (max-width: 1200px) {
     #our-platform {
-        padding: 10px;
+        padding: 3rem;
     }
 }
