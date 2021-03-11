@@ -125,7 +125,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #333743;
-    padding: 3rem 0;
+    padding: 3rem;
     color: white;
 }
 
@@ -137,6 +137,7 @@ body {
     margin-bottom: 2rem;
     font-size: 2rem;
     text-transform: uppercase;
+    text-align: center;
 }
 
 
@@ -338,6 +339,12 @@ body {
     }
 }
 
+@media only screen and (max-width: 440px) {
+    .section-four-list {
+        max-width: 250px;
+    }
+}
+
 
 /*Section 5 Styles */
 
@@ -351,7 +358,7 @@ body {
     align-items: center;
     background-color: #ffdc00;
     text-align: center;
-    padding: 3rem 0;
+    padding: 3rem;
 }
 
 
@@ -369,6 +376,7 @@ body {
 #what-they-say q {
     font-style: italic;
     margin-bottom: 1rem;
+    max-width: 400px;
 }
 
 
@@ -402,7 +410,7 @@ body {
     background-color: #333743;
     color: #fff;
     min-height: 50vh;
-    padding: 3rem 0;
+    padding: 3rem;
 }
 
 
@@ -419,7 +427,7 @@ body {
 .section-seven img {
     width: 6.5rem;
     height: 1.7rem;
-    margin: 0 4rem;
+    margin: 0 1rem 0 4rem;
 }
 
 .section-seven p {
@@ -427,14 +435,15 @@ body {
     margin: 0 4rem;
 }
 
-
-
-
-
-
-
 @media only screen and (max-width: 1200px) {
     #our-platform {
-        padding: 10px;
+        padding: 3rem;
+    }
+}
+
+@media only screen and (max-width: 370px) {
+    .section-seven p {
+        margin-right: 4rem;
+        margin-left: auto;
     }
 }
