@@ -339,6 +339,12 @@ body {
     }
 }
 
+@media only screen and (max-width: 440px) {
+    .section-four-list {
+        max-width: 250px;
+    }
+}
+
 
 /*Section 5 Styles */
 
