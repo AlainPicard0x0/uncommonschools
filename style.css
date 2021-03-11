@@ -440,3 +440,10 @@ body {
         padding: 3rem;
     }
 }
+
+@media only screen and (max-width: 370px) {
+    .section-seven p {
+        margin-right: 4rem;
+        margin-left: auto;
+    }
+}
